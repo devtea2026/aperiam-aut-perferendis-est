@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/aperiam-aut-perferendis-est",
-  "version": "4.1.47",
+  "version": "4.1.48",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -546,5 +546,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/aperiam-aut-perferendis-est/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
